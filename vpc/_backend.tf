@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket      = "gh-cicd"
+    bucket      = "choikangeun"
     key         = "dev/apne2/network/vpc/terraform.tfstate"
     region      = "ap-northeast-2"
 #    role_arn    = "{ASSUMED_ROLE}"

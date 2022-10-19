@@ -1,6 +1,6 @@
 env   = "dev"
 name  = "bastion"
-owner = "taepark"
+owner = "choikangeun"
 tags  = {}
 
 # AMI

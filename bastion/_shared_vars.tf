@@ -1,5 +1,5 @@
 variable "backend_s3" {
-  default = "gj-cicd"
+  default = "choikangeun"
 }
 
 variable "region" {

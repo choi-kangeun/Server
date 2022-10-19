@@ -1,6 +1,6 @@
 env   = "dev"
 name  = "jenkins"
-owner = "taepark"
+owner = "choikangeun"
 tags  = {}
 
 # AMI
